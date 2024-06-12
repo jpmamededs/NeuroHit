@@ -31,7 +31,7 @@ It has the same proposal as the *Classic Mode*, but the game gets progressively 
 
 ### 🤼‍♂️ Challenge Mode:
 
-Also a 4-player gamemode, but in this, all of the players have to hold their respective modules buttons. When the buttons are held, a roulette-like animation with the leds is lighten up and a single random led is lighten, and then a random challenge is announced by the speaker to the game of the module from the lit led.
+Also a 4-player gamemode, but in this, all of the players have to hold their respective modules buttons. When the buttons are held, a roulette-like animation with the leds is lighten up and a single random led is lighten, and then a random challenge is announced by the speaker to the user of the module from the lit led.
 
 -----------------------------------
 
