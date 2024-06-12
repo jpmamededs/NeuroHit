@@ -1,8 +1,7 @@
 # NeuroHit
 The NeuroHit is a device programmed in an Arduino with C++ designed to auxiliate in the socializing of 1st degree autistic kids at school, using music and cooperation as the main factors to develop better communication between neurotypical and neurodivergent students.
 
-
-![1](https://github.com/jpmamededs/NeuroHit/assets/124704371/046b9c00-59b9-498f-b5a7-aaf938528193)
+![1](https://github.com/jpmamededs/NeuroHit/assets/124704371/99512c49-a613-4670-b90f-6a94b5dc74c2)
 
 --------------------------------
 
@@ -36,5 +35,5 @@ Also a 4-player gamemode, but in this, all of the players have to hold their res
 
 -----------------------------------
 
-![11](https://github.com/jpmamededs/NeuroHit/assets/124704371/b0abe80f-a05a-4231-9460-267631a61a4a)
+![11](https://github.com/jpmamededs/NeuroHit/assets/124704371/3ad36e64-16b0-4b6d-8934-4fe464fc3aa4)
 **NeuroHit** is under constant updates, so stay tuned for more.
